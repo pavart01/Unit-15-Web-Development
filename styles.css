@@ -69,6 +69,18 @@ section {
     margin-right: 900px;
 }
 
-.profile-chang {
-    margin-top: 500px;
+.profile-daniel, .profile-chang {
+    margin: 0; /* Remove default margin */
+    padding: 10px 0; /* Adjust padding as needed */
+}
+
+.profile-chang-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.profile-chang h2 {
+    margin-right: 900px;
 }
